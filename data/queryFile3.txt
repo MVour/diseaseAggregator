@@ -1,0 +1,4 @@
+/topk-AgeRanges 1 UK EPILEPSY 29-10-2015 03-08-2034 
+/diseaseFrequency HERPES 24-04-2018 20-06-2025  
+/numPatientAdmissions LUNG-CANCER 21-01-1997 29-10-2027  
+/searchPatientRecord 3363 

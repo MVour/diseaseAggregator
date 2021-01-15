@@ -1,0 +1,500 @@
+/numPatientAdmissions EPILEPSY 23-03-2023 18-02-2031 Bermuda 
+/numPatientAdmissions FLU 27-08-1984 05-07-2025 French 
+/numPatientDischarges HERPES 08-04-1971 18-01-1994  
+/searchPatientRecord 289 
+/searchPatientRecord 605 
+/diseaseFrequency CANCER 17-05-2009 28-08-2039  
+/topk-AgeRanges 2 Palau HERPES 04-08-1980 29-06-1991 
+/numPatientDischarges MALARIA 28-06-2022 04-09-2032  
+/searchPatientRecord 1197 
+/diseaseFrequency SYPHILIS 30-06-1989 08-12-2023 Guatemala 
+/numPatientDischarges HERPES 22-03-1971 25-05-2034 Hong-Kong 
+/searchPatientRecord 2405 
+/numPatientDischarges LUNG-CANCER 23-03-2029 27-09-2037 Bermuda 
+/topk-AgeRanges 3 Bahrain CHLAMYDIA 28-07-2038 06-11-2038 
+/numPatientDischarges SARS 05-01-2035 24-06-2036  
+/topk-AgeRanges 1 UK EPILEPSY 29-10-2015 03-08-2034 
+/diseaseFrequency HERPES 24-04-2018 20-06-2025  
+/numPatientAdmissions LUNG-CANCER 21-01-1997 29-10-2027  
+/searchPatientRecord 3363 
+/searchPatientRecord 51 
+/numPatientDischarges CHICKEN-POX 21-01-2014 06-10-2017 French 
+/diseaseFrequency HERPES 26-06-2011 01-12-2027  
+/numPatientAdmissions EPILEPSY 06-08-2028 03-08-2039  
+/numPatientAdmissions HEPATITIS-A 13-08-1976 01-06-1994  
+/numPatientAdmissions RABIES 15-10-2008 29-10-2016  
+/numPatientAdmissions YELLOW-FEVER 29-03-2036 10-12-2039 Cuba 
+/topk-AgeRanges 2 Laos FLU 29-09-1999 27-10-2026 
+/numPatientDischarges SYPHILIS 18-04-2002 11-06-2026  
+/diseaseFrequency CHLAMYDIA 17-01-2019 14-12-2037 China 
+/searchPatientRecord 2188 
+/searchPatientRecord 2547 
+/diseaseFrequency CANCER 05-01-2003 12-03-2030 Syria 
+/searchPatientRecord 948 
+/numPatientDischarges MALARIA 08-05-1970 16-11-2007 Zimbabwe 
+/topk-AgeRanges 1 Hong-Kong EPILEPSY 23-08-2036 24-06-2039 
+/numPatientAdmissions ASTHMA 18-06-1992 24-01-2009 Bahrain 
+/diseaseFrequency MALARIA 23-01-1976 31-01-2012  
+/numPatientAdmissions SARS 24-10-1981 10-10-1986  
+/topk-AgeRanges 2 Palau CHLAMYDIA 25-08-2025 14-12-2025 
+/numPatientAdmissions CHLAMYDIA 24-06-1985 22-03-1988 India 
+/diseaseFrequency TYPHUS-TYPHOID 03-04-1970 03-07-1995  
+/numPatientAdmissions HERPES 11-05-1985 24-12-1986  
+/diseaseFrequency RABIES 22-06-2017 21-05-2036 Monaco 
+/searchPatientRecord 2836 
+/diseaseFrequency MALARIA 06-03-2016 18-12-2028  
+/numPatientDischarges CHICKEN-POX 10-07-2002 10-09-2038  
+/topk-AgeRanges 4 Guatemala YELLOW-FEVER 03-01-2009 16-02-2022 
+/numPatientDischarges CHICKEN-POX 13-07-1980 08-10-1988 Finland 
+/searchPatientRecord 575 
+/searchPatientRecord 3270 
+/topk-AgeRanges 1 Hong-Kong YELLOW-FEVER 25-02-2020 18-02-2034 
+/topk-AgeRanges 3 Bahrain HERPES 06-03-2022 13-02-2032 
+/searchPatientRecord 249 
+/topk-AgeRanges 2 Monaco SARS 02-01-1980 19-03-2024 
+/numPatientDischarges FLU 20-11-2002 03-10-2009  
+/numPatientDischarges CHICKEN-POX 17-02-1999 20-11-2016  
+/searchPatientRecord 3100 
+/numPatientAdmissions SCHIZOPHRENIA 19-12-1985 30-10-1986 Hong-Kong 
+/numPatientDischarges CHLAMYDIA 11-01-2033 11-11-2034  
+/numPatientDischarges LUNG-CANCER 17-03-2032 05-07-2036 Mexico 
+/topk-AgeRanges 4 Finland TETANUS 15-11-2014 14-09-2029 
+/diseaseFrequency CHLAMYDIA 31-12-2019 14-08-2027  
+/numPatientAdmissions SYPHILIS 25-07-2012 02-08-2015  
+/diseaseFrequency TYPHUS-TYPHOID 07-04-1980 23-12-1990  
+/diseaseFrequency CHLAMYDIA 11-01-1976 03-06-2021  
+/numPatientAdmissions HEPATITIS-A 10-08-1993 24-10-2024 Madagascar 
+/numPatientAdmissions RABIES 16-05-2006 19-04-2011 Syria 
+/numPatientDischarges LUNG-CANCER 23-11-2012 04-02-2017  
+/topk-AgeRanges 1 Finland MALARIA 03-09-1999 25-01-2001 
+/searchPatientRecord 375 
+/searchPatientRecord 3488 
+/topk-AgeRanges 4 Zimbabwe RABIES 05-10-1989 09-04-2000 
+/topk-AgeRanges 1 Monaco EPILEPSY 10-07-1989 06-08-2022 
+/topk-AgeRanges 2 French YELLOW-FEVER 09-06-1978 25-10-1994 
+/numPatientAdmissions YELLOW-FEVER 07-12-2034 28-03-2036  
+/numPatientDischarges ASTHMA 16-04-2019 06-04-2038 China 
+/searchPatientRecord 2709 
+/numPatientAdmissions MALARIA 13-06-2029 05-10-2031 Cuba 
+/diseaseFrequency RABIES 15-11-1989 23-08-2009  
+/searchPatientRecord 419 
+/numPatientAdmissions CHICKEN-POX 25-05-2006 14-10-2016 Hong-Kong 
+/searchPatientRecord 1306 
+/topk-AgeRanges 2 Syria CANCER 24-04-1973 29-09-1991 
+/topk-AgeRanges 1 India SYPHILIS 20-04-1971 25-03-1996 
+/numPatientAdmissions RABIES 15-07-1983 03-01-2024  
+/topk-AgeRanges 4 Finland ASTHMA 09-10-2015 15-08-2017 
+/searchPatientRecord 335 
+/topk-AgeRanges 1 French CANCER 29-09-1984 28-05-1996 
+/diseaseFrequency SCHIZOPHRENIA 06-01-1993 06-01-2016 India 
+/searchPatientRecord 1408 
+/numPatientDischarges HEPATITIS-A 06-07-2040 15-11-2040 Cuba 
+/topk-AgeRanges 4 Palau RABIES 19-12-1979 30-06-2030 
+/searchPatientRecord 1836 
+/topk-AgeRanges 2 Finland CHICKEN-POX 15-04-2013 19-05-2039 
+/diseaseFrequency ASTHMA 07-07-1996 17-10-2026  
+/topk-AgeRanges 1 Monaco SYPHILIS 27-05-2030 05-07-2032 
+/searchPatientRecord 921 
+/topk-AgeRanges 3 UK TYPHUS-TYPHOID 07-09-2029 12-01-2038 
+/numPatientAdmissions SARS 14-06-1974 12-06-2036 UK 
+/topk-AgeRanges 4 Hong-Kong HEPATITIS-A 02-12-2040 15-12-2040 
+/diseaseFrequency FLU 12-02-1996 09-06-2014 China 
+/numPatientAdmissions ASTHMA 04-06-2025 02-02-2028 Slovenia 
+/topk-AgeRanges 2 Nigeria CHICKEN-POX 08-06-1989 16-03-2029 
+/searchPatientRecord 1740 
+/topk-AgeRanges 3 French RABIES 30-07-1989 31-01-2020 
+/numPatientDischarges HEPATITIS-A 20-04-2011 19-07-2027 Nigeria 
+/diseaseFrequency HERPES 04-12-2009 17-01-2017 Bermuda 
+/diseaseFrequency TETANUS 06-02-1988 15-10-2020 Monaco 
+/topk-AgeRanges 4 Zimbabwe TYPHUS-TYPHOID 05-02-1979 04-12-2010 
+/numPatientAdmissions HERPES 19-11-2026 08-07-2036 Nigeria 
+/numPatientDischarges TETANUS 22-02-2027 03-06-2039  
+/searchPatientRecord 1056 
+/topk-AgeRanges 3 Laos CANCER 20-08-2002 26-01-2039 
+/numPatientDischarges CHLAMYDIA 07-03-1973 26-01-1982  
+/diseaseFrequency TETANUS 19-12-2003 06-02-2039 UK 
+/topk-AgeRanges 3 Syria MALARIA 15-09-1970 15-08-1998 
+/topk-AgeRanges 3 Cuba LUNG-CANCER 20-12-2023 16-06-2035 
+/searchPatientRecord 459 
+/topk-AgeRanges 2 China CHICKEN-POX 21-06-1988 15-08-2021 
+/numPatientDischarges SYPHILIS 26-09-2015 13-09-2028  
+/numPatientAdmissions TYPHUS-TYPHOID 30-04-2032 10-04-2035 Cuba 
+/diseaseFrequency RABIES 24-04-2019 20-04-2023 Finland 
+/diseaseFrequency SYPHILIS 16-09-2014 19-10-2040 Monaco 
+/diseaseFrequency SYPHILIS 17-05-2027 12-06-2029 Guatemala 
+/numPatientAdmissions YELLOW-FEVER 07-11-1987 29-04-2037  
+/topk-AgeRanges 1 China TETANUS 21-02-2014 09-04-2038 
+/numPatientDischarges FLU 18-01-2018 16-12-2031  
+/diseaseFrequency SARS 21-10-2034 06-01-2035 Madagascar 
+/diseaseFrequency HEPATITIS-A 28-08-2025 21-02-2032 UK 
+/numPatientAdmissions CHICKEN-POX 12-12-2015 05-02-2037 Nigeria 
+/topk-AgeRanges 1 Hong-Kong CHLAMYDIA 08-08-1977 09-03-2010 
+/numPatientDischarges ASTHMA 02-02-2037 16-05-2038  
+/searchPatientRecord 192 
+/searchPatientRecord 3537 
+/numPatientDischarges YELLOW-FEVER 28-02-2019 23-01-2021  
+/topk-AgeRanges 1 India FLU 18-03-2000 23-07-2011 
+/numPatientAdmissions CHLAMYDIA 19-03-2015 15-03-2039  
+/diseaseFrequency LUNG-CANCER 10-05-1977 28-02-2015 Nigeria 
+/numPatientDischarges SYPHILIS 15-07-2015 16-01-2027  
+/diseaseFrequency SCHIZOPHRENIA 26-02-2004 16-03-2007 Bahrain 
+/diseaseFrequency ASTHMA 28-08-2005 18-10-2014  
+/diseaseFrequency MALARIA 02-12-2026 19-11-2038  
+/topk-AgeRanges 3 Palau LUNG-CANCER 30-12-1988 18-02-2005 
+/numPatientAdmissions SYPHILIS 05-01-2014 25-08-2035 Slovenia 
+/diseaseFrequency HERPES 24-07-1986 23-11-2015  
+/topk-AgeRanges 4 UK EPILEPSY 29-10-2032 06-02-2035 
+/topk-AgeRanges 3 Madagascar TETANUS 28-08-1990 22-11-2019 
+/numPatientAdmissions TETANUS 07-12-1983 15-12-2017 UK 
+/numPatientAdmissions HEPATITIS-A 30-07-2004 11-12-2038  
+/diseaseFrequency YELLOW-FEVER 09-03-2012 29-05-2014 China 
+/topk-AgeRanges 4 India CHICKEN-POX 09-12-2005 06-03-2036 
+/searchPatientRecord 3025 
+/numPatientAdmissions SYPHILIS 27-09-2000 13-03-2011 Bahrain 
+/numPatientAdmissions CHICKEN-POX 04-05-2008 14-03-2014  
+/topk-AgeRanges 1 Madagascar TETANUS 25-12-1998 25-11-2017 
+/topk-AgeRanges 3 Hong-Kong SCHIZOPHRENIA 24-05-1981 19-10-2036 
+/topk-AgeRanges 1 Zimbabwe RABIES 30-09-2007 11-08-2032 
+/diseaseFrequency CHICKEN-POX 05-02-1972 08-03-1985 Nigeria 
+/numPatientAdmissions ASTHMA 18-08-2008 27-05-2012  
+/diseaseFrequency SARS 03-08-2027 28-02-2030  
+/searchPatientRecord 2844 
+/diseaseFrequency CHLAMYDIA 01-09-2031 08-01-2040  
+/diseaseFrequency FLU 13-02-2027 12-11-2031  
+/diseaseFrequency TETANUS 27-06-1989 24-12-1993 Madagascar 
+/searchPatientRecord 3411 
+/topk-AgeRanges 1 Monaco ASTHMA 23-02-2028 29-08-2028 
+/topk-AgeRanges 1 Guatemala SCHIZOPHRENIA 30-05-1997 27-08-2033 
+/numPatientAdmissions EPILEPSY 20-07-1986 13-04-2038  
+/diseaseFrequency LUNG-CANCER 21-02-2030 22-02-2037  
+/searchPatientRecord 2066 
+/numPatientAdmissions EPILEPSY 17-06-1971 06-06-2007  
+/numPatientAdmissions CHICKEN-POX 28-05-2001 06-05-2003 Bermuda 
+/numPatientAdmissions SARS 12-10-2023 20-10-2026  
+/numPatientDischarges ASTHMA 03-07-2036 09-01-2037  
+/numPatientDischarges TETANUS 24-05-1986 14-03-2014 Bermuda 
+/numPatientDischarges CHICKEN-POX 13-08-1994 10-09-2035 French 
+/topk-AgeRanges 3 Laos MALARIA 19-01-2008 19-12-2025 
+/searchPatientRecord 2034 
+/searchPatientRecord 2777 
+/topk-AgeRanges 4 Syria ASTHMA 20-09-1977 04-01-1998 
+/numPatientDischarges ASTHMA 17-01-2031 21-02-2037  
+/numPatientDischarges CANCER 02-02-2020 08-08-2027  
+/searchPatientRecord 1407 
+/searchPatientRecord 57 
+/numPatientDischarges CHLAMYDIA 25-04-1990 12-12-2024  
+/diseaseFrequency HEPATITIS-A 14-02-2006 25-09-2035 India 
+/numPatientAdmissions YELLOW-FEVER 09-12-2034 03-01-2038  
+/numPatientAdmissions MALARIA 18-03-1990 03-07-2022  
+/diseaseFrequency ASTHMA 24-05-2024 27-07-2025 Monaco 
+/topk-AgeRanges 2 Madagascar ASTHMA 29-12-1990 06-02-2015 
+/numPatientAdmissions SARS 30-09-1983 23-10-2030 Bahrain 
+/topk-AgeRanges 4 Hong-Kong SARS 25-04-1981 18-03-2031 
+/numPatientDischarges SYPHILIS 16-10-2028 26-05-2031 French 
+/searchPatientRecord 1304 
+/topk-AgeRanges 4 Bermuda MALARIA 06-12-1990 06-12-2017 
+/searchPatientRecord 3070 
+/topk-AgeRanges 1 Madagascar SARS 14-01-2001 10-04-2003 
+/numPatientDischarges YELLOW-FEVER 10-05-1995 14-07-2022  
+/numPatientDischarges EPILEPSY 29-04-1980 17-05-2011  
+/numPatientAdmissions SYPHILIS 09-02-2016 12-06-2035  
+/numPatientAdmissions CANCER 03-01-1979 12-06-2006 UK 
+/numPatientDischarges CANCER 06-04-1997 11-09-2010 Zimbabwe 
+/diseaseFrequency HEPATITIS-A 04-03-1982 02-07-1988  
+/diseaseFrequency SYPHILIS 04-07-2000 27-04-2033 China 
+/diseaseFrequency ASTHMA 04-09-2040 13-12-2040  
+/searchPatientRecord 3936 
+/diseaseFrequency HERPES 01-05-2006 14-09-2013 Syria 
+/topk-AgeRanges 1 Laos CANCER 06-02-1996 28-10-2038 
+/diseaseFrequency MALARIA 01-07-1981 04-04-2011 Laos 
+/searchPatientRecord 424 
+/topk-AgeRanges 2 UK EPILEPSY 04-05-2021 04-01-2037 
+/topk-AgeRanges 2 China TYPHUS-TYPHOID 18-08-1977 23-09-1989 
+/numPatientAdmissions HEPATITIS-A 05-07-2031 28-07-2036 Bermuda 
+/searchPatientRecord 3462 
+/numPatientAdmissions LUNG-CANCER 02-02-2020 17-02-2027  
+/numPatientDischarges CHLAMYDIA 25-08-2031 26-02-2039  
+/numPatientDischarges CHICKEN-POX 06-03-1977 08-11-2004 Slovenia 
+/numPatientDischarges HEPATITIS-A 16-10-2022 27-04-2038  
+/diseaseFrequency RABIES 08-06-2026 24-03-2035  
+/diseaseFrequency TYPHUS-TYPHOID 29-03-2028 14-04-2039  
+/searchPatientRecord 1403 
+/diseaseFrequency FLU 23-04-1976 20-05-1996  
+/numPatientAdmissions CANCER 13-06-1984 26-01-2015 Cuba 
+/numPatientAdmissions CHICKEN-POX 14-02-2014 01-12-2030 India 
+/numPatientDischarges CHLAMYDIA 11-11-2002 09-07-2039  
+/searchPatientRecord 2185 
+/numPatientAdmissions MALARIA 11-07-2016 25-07-2017  
+/numPatientAdmissions HERPES 12-04-1980 05-09-2012  
+/topk-AgeRanges 1 Zimbabwe ASTHMA 13-01-1994 08-11-2038 
+/numPatientAdmissions RABIES 18-12-1974 04-03-1992  
+/numPatientDischarges CANCER 09-07-1979 22-02-2029 Nigeria 
+/topk-AgeRanges 1 Bermuda TETANUS 19-12-2022 23-07-2037 
+/numPatientDischarges LUNG-CANCER 08-05-1997 29-01-2014  
+/diseaseFrequency CHLAMYDIA 14-11-2008 05-09-2021  
+/numPatientDischarges EPILEPSY 22-08-1999 30-01-2040  
+/numPatientAdmissions ASTHMA 11-07-1983 28-10-2040 UK 
+/diseaseFrequency LUNG-CANCER 07-09-2012 30-09-2019  
+/numPatientDischarges HEPATITIS-A 10-05-1986 21-02-2034 Slovenia 
+/diseaseFrequency HEPATITIS-A 31-05-2007 17-05-2022 Laos 
+/topk-AgeRanges 4 Hong-Kong TYPHUS-TYPHOID 11-08-2039 13-08-2040 
+/numPatientDischarges EPILEPSY 14-09-2018 30-12-2036  
+/diseaseFrequency SCHIZOPHRENIA 13-06-2027 15-07-2035 Zimbabwe 
+/numPatientDischarges EPILEPSY 01-02-1974 04-08-2019  
+/numPatientDischarges MALARIA 30-07-1975 28-07-2004 India 
+/numPatientDischarges HEPATITIS-A 14-11-1995 26-10-2032  
+/numPatientDischarges TETANUS 06-04-2024 16-07-2028 India 
+/searchPatientRecord 3712 
+/numPatientDischarges CHICKEN-POX 02-01-1999 23-07-2037  
+/numPatientDischarges HEPATITIS-A 23-10-2030 13-02-2035 Guatemala 
+/topk-AgeRanges 1 Madagascar SARS 07-10-1999 22-09-2020 
+/numPatientDischarges SARS 23-06-2026 05-07-2038  
+/topk-AgeRanges 4 Monaco CHICKEN-POX 26-08-2034 29-05-2037 
+/numPatientDischarges ASTHMA 30-03-2005 22-05-2017 Guatemala 
+/searchPatientRecord 494 
+/numPatientAdmissions CHICKEN-POX 24-04-2035 07-08-2039  
+/searchPatientRecord 402 
+/topk-AgeRanges 1 Hong-Kong HERPES 21-06-2011 08-12-2018 
+/topk-AgeRanges 1 Hong-Kong LUNG-CANCER 22-09-2007 06-07-2010 
+/searchPatientRecord 236 
+/diseaseFrequency ASTHMA 03-01-1988 12-01-2007  
+/topk-AgeRanges 1 Monaco CHLAMYDIA 22-01-2013 26-04-2015 
+/diseaseFrequency CHLAMYDIA 03-07-2010 26-02-2014  
+/numPatientAdmissions HEPATITIS-A 19-04-1976 31-05-2000  
+/numPatientAdmissions SARS 04-12-1992 18-12-2004  
+/numPatientAdmissions TETANUS 12-11-2011 09-04-2014  
+/numPatientDischarges HEPATITIS-A 26-02-2005 15-05-2023  
+/diseaseFrequency LUNG-CANCER 24-04-2004 18-11-2018 Slovenia 
+/searchPatientRecord 2588 
+/numPatientDischarges TYPHUS-TYPHOID 25-07-1977 11-06-2006  
+/topk-AgeRanges 4 Syria CHLAMYDIA 18-11-2024 21-11-2033 
+/topk-AgeRanges 3 French SYPHILIS 25-08-1991 28-07-2007 
+/topk-AgeRanges 3 Finland TYPHUS-TYPHOID 21-01-1976 15-01-1985 
+/numPatientAdmissions HERPES 30-07-2002 21-12-2015 Guatemala 
+/diseaseFrequency TYPHUS-TYPHOID 24-03-2007 16-05-2021  
+/searchPatientRecord 748 
+/topk-AgeRanges 2 Syria CHICKEN-POX 07-10-2017 21-09-2028 
+/topk-AgeRanges 1 Slovenia SARS 19-04-1990 19-05-1994 
+/topk-AgeRanges 1 Cuba MALARIA 05-11-2023 27-04-2032 
+/topk-AgeRanges 4 Finland CANCER 25-08-1992 01-06-2002 
+/searchPatientRecord 390 
+/numPatientDischarges MALARIA 24-06-2010 13-05-2031 Guatemala 
+/searchPatientRecord 3370 
+/diseaseFrequency LUNG-CANCER 20-01-1976 06-11-1977 UK 
+/searchPatientRecord 155 
+/topk-AgeRanges 2 Guatemala TYPHUS-TYPHOID 12-02-2013 21-03-2040 
+/numPatientAdmissions CANCER 20-10-2035 08-05-2038 China 
+/searchPatientRecord 843 
+/topk-AgeRanges 2 India RABIES 09-04-1981 13-10-2040 
+/searchPatientRecord 3240 
+/numPatientDischarges SCHIZOPHRENIA 02-03-2005 15-06-2016  
+/diseaseFrequency HERPES 10-03-2026 25-10-2033 Bermuda 
+/searchPatientRecord 2125 
+/numPatientAdmissions SCHIZOPHRENIA 02-05-2011 31-12-2028 Nigeria 
+/topk-AgeRanges 1 Monaco TETANUS 23-08-2029 28-01-2030 
+/diseaseFrequency CANCER 14-01-1981 23-07-2017  
+/numPatientAdmissions TETANUS 26-02-2002 31-03-2026  
+/topk-AgeRanges 2 Zimbabwe TYPHUS-TYPHOID 26-01-2001 29-10-2040 
+/topk-AgeRanges 3 Hong-Kong LUNG-CANCER 01-10-2013 12-02-2031 
+/diseaseFrequency CHICKEN-POX 19-03-2030 11-03-2040 Finland 
+/diseaseFrequency YELLOW-FEVER 15-12-2018 22-01-2026  
+/topk-AgeRanges 2 Syria TYPHUS-TYPHOID 24-07-1971 24-05-1974 
+/numPatientDischarges SYPHILIS 30-12-1978 19-04-2014 Syria 
+/numPatientAdmissions SCHIZOPHRENIA 27-07-2019 06-01-2032  
+/diseaseFrequency SYPHILIS 05-04-1979 30-03-2000 French 
+/numPatientDischarges LUNG-CANCER 05-01-2003 19-09-2006 Hong-Kong 
+/numPatientDischarges SARS 17-02-2005 04-09-2008 French 
+/searchPatientRecord 3207 
+/numPatientDischarges EPILEPSY 10-05-2009 07-11-2022  
+/numPatientDischarges CHLAMYDIA 13-09-1989 30-12-2020  
+/topk-AgeRanges 3 Mexico SYPHILIS 12-01-1988 14-03-1997 
+/numPatientAdmissions HEPATITIS-A 21-06-2032 02-01-2038 China 
+/searchPatientRecord 2307 
+/numPatientAdmissions LUNG-CANCER 27-09-2011 03-02-2024 Bermuda 
+/searchPatientRecord 1289 
+/topk-AgeRanges 1 Zimbabwe CHLAMYDIA 12-07-2027 24-04-2037 
+/numPatientAdmissions CANCER 13-10-2022 23-06-2029 UK 
+/searchPatientRecord 3371 
+/numPatientDischarges CHICKEN-POX 06-09-1990 25-01-2020  
+/numPatientAdmissions MALARIA 05-08-1974 21-03-1978  
+/diseaseFrequency FLU 20-08-2024 14-11-2039  
+/searchPatientRecord 795 
+/searchPatientRecord 3286 
+/numPatientDischarges HEPATITIS-A 03-06-2036 24-11-2038  
+/diseaseFrequency CHLAMYDIA 19-12-2031 29-07-2037 Zimbabwe 
+/numPatientDischarges FLU 27-04-1977 05-07-2032  
+/topk-AgeRanges 1 Hong-Kong TETANUS 18-02-1972 28-01-1999 
+/numPatientDischarges SCHIZOPHRENIA 05-02-2016 05-08-2037 Monaco 
+/diseaseFrequency HEPATITIS-A 25-01-2033 06-05-2040  
+/numPatientDischarges CHICKEN-POX 28-02-2019 26-10-2031 Nigeria 
+/searchPatientRecord 3170 
+/numPatientDischarges TYPHUS-TYPHOID 16-11-1981 25-10-1985 India 
+/numPatientAdmissions CANCER 22-03-1974 03-08-1992  
+/numPatientAdmissions CANCER 21-10-2007 28-02-2026 Cuba 
+/diseaseFrequency CHLAMYDIA 22-12-2004 10-02-2031  
+/diseaseFrequency FLU 25-02-1995 23-01-2006  
+/diseaseFrequency TETANUS 31-05-1974 25-10-1999  
+/topk-AgeRanges 3 Bahrain SCHIZOPHRENIA 29-08-1991 27-02-2031 
+/searchPatientRecord 1924 
+/diseaseFrequency HEPATITIS-A 15-07-1973 10-05-2002 Syria 
+/numPatientAdmissions LUNG-CANCER 23-07-2005 28-12-2036  
+/topk-AgeRanges 1 UK EPILEPSY 22-06-2020 05-07-2035 
+/numPatientAdmissions SARS 05-12-1985 19-02-2039  
+/numPatientDischarges EPILEPSY 06-10-2002 18-04-2032 Zimbabwe 
+/diseaseFrequency CHICKEN-POX 30-11-1974 20-01-2037  
+/topk-AgeRanges 3 Bahrain SYPHILIS 25-02-2039 20-03-2039 
+/numPatientDischarges ASTHMA 29-07-1995 18-06-2026 China 
+/diseaseFrequency FLU 15-11-1999 21-01-2001 French 
+/numPatientDischarges CHLAMYDIA 25-07-1993 05-02-2003  
+/numPatientDischarges RABIES 10-08-2017 26-02-2032  
+/diseaseFrequency HEPATITIS-A 09-12-2039 08-01-2040  
+/searchPatientRecord 2470 
+/numPatientDischarges TETANUS 30-12-2002 13-07-2026 Zimbabwe 
+/searchPatientRecord 3925 
+/searchPatientRecord 1315 
+/numPatientDischarges LUNG-CANCER 18-07-2001 11-06-2013 Slovenia 
+/topk-AgeRanges 4 Mexico SARS 15-01-2005 15-01-2027 
+/diseaseFrequency CANCER 10-10-2028 31-12-2039 Syria 
+/diseaseFrequency MALARIA 06-08-2038 29-08-2039  
+/topk-AgeRanges 4 Bermuda TYPHUS-TYPHOID 11-05-1977 19-03-2009 
+/numPatientAdmissions CANCER 03-03-1988 01-12-2035  
+/numPatientAdmissions FLU 24-12-2034 07-09-2036 UK 
+/numPatientDischarges SARS 08-10-2004 03-09-2034 Palau 
+/numPatientAdmissions SCHIZOPHRENIA 30-07-2016 19-10-2028  
+/numPatientDischarges SARS 16-12-1973 03-06-1989 Cuba 
+/numPatientDischarges SYPHILIS 05-05-2007 16-09-2039  
+/numPatientDischarges LUNG-CANCER 23-07-2038 02-11-2039 China 
+/searchPatientRecord 2136 
+/searchPatientRecord 1454 
+/searchPatientRecord 1605 
+/numPatientAdmissions MALARIA 09-12-2008 02-01-2020  
+/searchPatientRecord 983 
+/numPatientDischarges YELLOW-FEVER 08-06-2012 02-01-2038  
+/searchPatientRecord 1170 
+/topk-AgeRanges 4 Palau FLU 10-02-2022 28-05-2035 
+/numPatientAdmissions RABIES 11-09-1994 03-04-2035  
+/topk-AgeRanges 4 Laos TETANUS 31-05-1972 06-05-1978 
+/diseaseFrequency TETANUS 15-01-1983 19-11-2000 Monaco 
+/numPatientAdmissions CHLAMYDIA 15-05-1984 10-12-2012  
+/topk-AgeRanges 4 Hong-Kong FLU 13-10-1999 20-10-2038 
+/numPatientDischarges CANCER 18-03-1990 29-04-1996  
+/topk-AgeRanges 4 Nigeria CHLAMYDIA 20-12-1975 11-02-2001 
+/numPatientAdmissions YELLOW-FEVER 08-12-1994 12-08-2036 Hong-Kong 
+/numPatientDischarges HERPES 05-07-1981 19-01-2018  
+/searchPatientRecord 139 
+/numPatientAdmissions SYPHILIS 19-02-2011 09-09-2032  
+/topk-AgeRanges 4 Cuba HERPES 13-12-2029 19-09-2031 
+/topk-AgeRanges 4 French RABIES 11-08-2005 22-03-2037 
+/numPatientDischarges TYPHUS-TYPHOID 24-09-2003 03-10-2004  
+/diseaseFrequency CANCER 10-06-2015 28-08-2018  
+/diseaseFrequency YELLOW-FEVER 15-10-2002 18-11-2037 Laos 
+/numPatientDischarges RABIES 18-12-2033 20-03-2038 French 
+/topk-AgeRanges 1 UK HEPATITIS-A 04-10-2025 03-03-2034 
+/numPatientDischarges EPILEPSY 06-12-2001 18-03-2010 Madagascar 
+/topk-AgeRanges 2 Guatemala LUNG-CANCER 02-05-1984 24-07-2014 
+/diseaseFrequency TETANUS 06-02-1994 24-05-2015  
+/diseaseFrequency TYPHUS-TYPHOID 01-07-2028 02-10-2038 Cuba 
+/numPatientDischarges CANCER 06-04-2023 19-06-2031  
+/searchPatientRecord 408 
+/diseaseFrequency TETANUS 16-04-2030 28-10-2035 Slovenia 
+/searchPatientRecord 3564 
+/numPatientDischarges TETANUS 22-02-2027 24-07-2029 Bahrain 
+/numPatientDischarges HERPES 12-01-1972 21-06-2026  
+/numPatientDischarges SYPHILIS 19-01-2030 02-09-2030 Madagascar 
+/numPatientDischarges HEPATITIS-A 15-12-1972 05-01-1988 China 
+/numPatientDischarges EPILEPSY 07-02-2022 09-03-2026 Cuba 
+/searchPatientRecord 2129 
+/diseaseFrequency SCHIZOPHRENIA 31-07-1972 16-11-1976 Finland 
+/numPatientAdmissions SYPHILIS 21-05-1992 07-11-2026  
+/numPatientAdmissions CHICKEN-POX 24-09-1996 08-03-2016  
+/searchPatientRecord 3146 
+/searchPatientRecord 371 
+/topk-AgeRanges 1 Cuba SCHIZOPHRENIA 08-04-1996 21-09-2024 
+/topk-AgeRanges 1 Zimbabwe RABIES 17-04-2033 05-12-2036 
+/numPatientAdmissions EPILEPSY 30-07-2031 27-01-2033  
+/numPatientDischarges SARS 07-11-1973 10-11-2021  
+/diseaseFrequency FLU 31-03-1970 22-09-1971  
+/searchPatientRecord 3577 
+/topk-AgeRanges 4 Laos LUNG-CANCER 02-04-1987 13-03-2033 
+/diseaseFrequency CHLAMYDIA 19-06-1972 01-03-2010 Bermuda 
+/searchPatientRecord 1832 
+/diseaseFrequency ASTHMA 25-07-1987 19-01-2025  
+/diseaseFrequency FLU 14-06-2002 21-05-2015  
+/searchPatientRecord 1978 
+/searchPatientRecord 292 
+/diseaseFrequency HERPES 26-01-1995 02-10-2000 Cuba 
+/topk-AgeRanges 4 China LUNG-CANCER 10-03-1984 26-02-2005 
+/diseaseFrequency SARS 26-01-1972 01-09-2019  
+/topk-AgeRanges 4 Mexico TYPHUS-TYPHOID 07-10-1998 21-11-2020 
+/diseaseFrequency MALARIA 23-09-1987 22-07-2002 Bahrain 
+/numPatientAdmissions MALARIA 12-09-2006 23-12-2011  
+/searchPatientRecord 3197 
+/numPatientAdmissions HERPES 11-04-1979 07-08-2001 Finland 
+/diseaseFrequency EPILEPSY 15-05-1970 05-08-2040  
+/numPatientDischarges CHICKEN-POX 31-08-2030 29-08-2033 Laos 
+/topk-AgeRanges 3 Slovenia HERPES 13-04-2035 27-09-2038 
+/numPatientDischarges FLU 13-12-1974 24-06-2004 Slovenia 
+/numPatientDischarges CANCER 17-08-1977 16-06-2035 French 
+/diseaseFrequency HEPATITIS-A 14-02-1980 15-05-2029  
+/diseaseFrequency RABIES 15-05-2036 16-01-2037 UK 
+/numPatientDischarges EPILEPSY 09-04-2035 07-10-2038 Finland 
+/numPatientAdmissions SYPHILIS 25-12-2037 05-02-2039  
+/topk-AgeRanges 4 Nigeria RABIES 13-04-2035 08-11-2038 
+/numPatientDischarges MALARIA 25-05-1989 22-06-2006 Syria 
+/diseaseFrequency TETANUS 05-10-1979 17-01-2007  
+/searchPatientRecord 1388 
+/diseaseFrequency SYPHILIS 04-07-2031 14-05-2037  
+/numPatientAdmissions RABIES 10-06-2034 12-02-2036  
+/searchPatientRecord 3297 
+/numPatientAdmissions SCHIZOPHRENIA 18-04-2027 16-04-2032 French 
+/diseaseFrequency FLU 15-06-2016 23-02-2017 Guatemala 
+/topk-AgeRanges 4 Mexico CHICKEN-POX 11-06-1993 14-09-2033 
+/searchPatientRecord 2841 
+/searchPatientRecord 1227 
+/topk-AgeRanges 3 Bermuda TYPHUS-TYPHOID 18-10-2007 21-07-2021 
+/searchPatientRecord 1775 
+/numPatientAdmissions CHICKEN-POX 26-12-2023 07-12-2039 Palau 
+/searchPatientRecord 1438 
+/numPatientDischarges CHICKEN-POX 12-02-2036 24-06-2039 Mexico 
+/topk-AgeRanges 3 Madagascar TYPHUS-TYPHOID 23-01-2040 28-06-2040 
+/numPatientDischarges SCHIZOPHRENIA 01-02-2030 12-01-2038 Bahrain 
+/numPatientDischarges SYPHILIS 28-11-2007 02-10-2020 Bermuda 
+/numPatientAdmissions SARS 28-07-2026 27-11-2038 Finland 
+/numPatientDischarges CHLAMYDIA 09-02-2005 13-01-2016 Hong-Kong 
+/numPatientDischarges RABIES 25-05-2023 27-04-2030  
+/numPatientDischarges TYPHUS-TYPHOID 06-11-2031 02-09-2035 India 
+/topk-AgeRanges 1 China CANCER 06-03-1974 07-03-1987 
+/numPatientDischarges EPILEPSY 13-02-1977 11-06-2028  
+/topk-AgeRanges 4 China HEPATITIS-A 10-11-1989 13-05-2030 
+/searchPatientRecord 3368 
+/searchPatientRecord 929 
+/searchPatientRecord 264 
+/numPatientDischarges RABIES 24-05-1982 07-03-2031  
+/diseaseFrequency TYPHUS-TYPHOID 05-10-1997 25-10-2022  
+/numPatientDischarges CANCER 05-10-1987 10-08-1988  
+/numPatientAdmissions HEPATITIS-A 04-07-2038 21-04-2040 Nigeria 
+/topk-AgeRanges 1 Finland CHLAMYDIA 30-05-1980 09-03-2031 
+/topk-AgeRanges 4 Bahrain SARS 26-08-1991 25-07-2016 
+/diseaseFrequency HEPATITIS-A 08-05-1973 16-05-1988  
+/diseaseFrequency ASTHMA 29-06-2023 19-06-2025  
+/numPatientDischarges CANCER 02-09-2028 29-05-2038  
+/topk-AgeRanges 4 Slovenia ASTHMA 29-06-1996 30-12-2008 
+/numPatientDischarges EPILEPSY 22-07-1975 13-01-1980  
+/numPatientDischarges EPILEPSY 13-07-2036 06-05-2039 Monaco 
+/searchPatientRecord 1883 
+/searchPatientRecord 3378 
+/searchPatientRecord 377 
+/diseaseFrequency CHLAMYDIA 25-09-2008 15-10-2016 Monaco 
+/numPatientDischarges RABIES 20-05-2028 24-05-2035 Finland 
+/searchPatientRecord 1394 
+/numPatientDischarges SARS 24-04-2014 05-11-2036  
+/numPatientDischarges LUNG-CANCER 12-04-1992 20-06-2020  
+/diseaseFrequency CHLAMYDIA 22-12-1978 17-03-2031 Bermuda 
+/numPatientDischarges MALARIA 16-06-1996 18-08-2012 Mexico 
+/topk-AgeRanges 3 Cuba SARS 09-05-1981 22-04-2015 
+/topk-AgeRanges 2 Finland SCHIZOPHRENIA 26-05-1986 09-05-2037 
+/numPatientDischarges TETANUS 21-10-2035 09-04-2036 Laos 
+/searchPatientRecord 3939 
+/diseaseFrequency CANCER 24-12-2026 18-06-2039  
+/numPatientAdmissions CANCER 23-04-2012 26-11-2020  
+/numPatientDischarges EPILEPSY 29-08-2038 18-03-2039  

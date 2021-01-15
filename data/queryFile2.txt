@@ -1,0 +1,19 @@
+/numPatientAdmissions EPILEPSY 23-03-2023 18-02-2031 Bermuda 
+/numPatientAdmissions FLU 27-08-1984 05-07-2025 French 
+/numPatientDischarges HERPES 08-04-1971 18-01-1994  
+/searchPatientRecord 289 
+/searchPatientRecord 605 
+/diseaseFrequency CANCER 17-05-2009 28-08-2039  
+/topk-AgeRanges 2 Palau HERPES 04-08-1980 29-06-1991 
+/numPatientDischarges MALARIA 28-06-2022 04-09-2032  
+/searchPatientRecord 1197 
+/diseaseFrequency SYPHILIS 30-06-1989 08-12-2023 Guatemala 
+/numPatientDischarges HERPES 22-03-1971 25-05-2034 Hong-Kong 
+/searchPatientRecord 2405 
+/numPatientDischarges LUNG-CANCER 23-03-2029 27-09-2037 Bermuda 
+/topk-AgeRanges 3 Bahrain CHLAMYDIA 28-07-2038 06-11-2038 
+/numPatientDischarges SARS 05-01-2035 24-06-2036  
+/topk-AgeRanges 1 UK EPILEPSY 29-10-2015 03-08-2034 
+/diseaseFrequency HERPES 24-04-2018 20-06-2025  
+/numPatientAdmissions LUNG-CANCER 21-01-1997 29-10-2027  
+/searchPatientRecord 3363 
